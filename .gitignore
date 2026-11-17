@@ -1,0 +1,5 @@
+/ZeroCut
+/bin/
+/lib/
+*.o
+*.tar.gz
