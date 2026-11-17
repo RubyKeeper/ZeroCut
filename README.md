@@ -2,6 +2,8 @@
 
 Lightweight, fast, portable lossless video & audio cutter and merger written in pure **C** (GTK3 + libmpv + FFmpeg `libavformat`). Designed for **WMV, ASF, WMA, MP4, MKV, AVI** and other formats — zero re-encoding, zero quality loss.
 
+![ZeroCut Screenshot](assets/screenshot.png)
+
 ## Features
 - **Lossless Cutting & Merging:** Direct stream-copy via custom 64-bit `zerocut-cli` (`libavformat`) with accurate PTS/DTS recalculation.
 - **Keyframe Navigation:** Frame-by-frame stepping (`←` / `→`) and exact keyframe jumping (`Shift + ←` / `Shift + →`).
